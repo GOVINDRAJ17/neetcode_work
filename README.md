@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -33,8 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
