@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
+## Array
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
