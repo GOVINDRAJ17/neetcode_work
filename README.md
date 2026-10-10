@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0133-clone-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
