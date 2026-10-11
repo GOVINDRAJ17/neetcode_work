@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0133-clone-graph) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -54,4 +55,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
