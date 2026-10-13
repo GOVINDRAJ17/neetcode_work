@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -51,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0078-subsets) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
@@ -65,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 ## Tree
 |  |
 | ------- |
@@ -110,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0078-subsets) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
