@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0078-subsets) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
