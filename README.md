@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0063-unique-paths-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0078-subsets) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
