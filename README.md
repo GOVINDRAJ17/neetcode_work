@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0133-clone-graph) |
 ## Union-Find
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0021-merge-two-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
