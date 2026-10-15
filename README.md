@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0078-subsets) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0133-clone-graph) |
 ## Union-Find
 |  |
