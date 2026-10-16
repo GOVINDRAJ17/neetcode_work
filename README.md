@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/GOVINDRAJ17/neetcode_work/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
